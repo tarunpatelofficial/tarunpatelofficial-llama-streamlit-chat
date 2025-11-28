@@ -2,6 +2,9 @@
 
 A powerful, feature-rich chatbot application built with Streamlit and Meta's Llama-3-8B-Instruct model. Features multi-session chat management, automatic conversation naming, and real-time streaming responses.
 
+## Website
+https://llama-app-chat.streamlit.app/
+
 ## ✨ Features
 
 - 🤖 **Powered by Llama 3**: Uses Meta's Llama-3-8B-Instruct model via HuggingFace
